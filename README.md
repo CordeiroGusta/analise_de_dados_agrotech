@@ -698,7 +698,7 @@ analise_de_dados_agrotech/
 │
 ├── AgroTech.sql
 │
-└── Banco de Dados II - KPI's.pptx
+└── AgroTech - KPI's.pptx
 ```
 
 ---
@@ -709,7 +709,7 @@ A apresentação reúne os principais resultados do tratamento dos dados, os dez
 
 O arquivo está disponível no repositório:
 
-**[Banco de Dados II - KPI's.pptx](./Banco%20de%20Dados%20II%20-%20KPI's.pptx)**
+**[AgroTech - KPI's.pptx](<./AgroTech - KPI's.pptx>)**
 
 ---
 
